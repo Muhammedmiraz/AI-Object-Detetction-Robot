@@ -64,6 +64,8 @@ Future Improvements
 * Add more simulation scenarios and testing.
 * Improve the user interface and detection status display.
 
+Project Demo
+
 Author
 
 Developed as a personal learning project in AI, machine learning, and robotics.
