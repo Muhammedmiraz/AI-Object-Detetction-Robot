@@ -67,5 +67,6 @@ Future Improvements
 Project Demo
 
 Author
+Muhammed Miraz P
 
 Developed as a personal learning project in AI, machine learning, and robotics.
