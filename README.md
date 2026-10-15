@@ -66,6 +66,8 @@ Future Improvements
 
 Project Demo
 
+![AI Object Detection Robot with YOLO Live Detection](YOLO%20Live%20Detection.jpeg)
+
 Author
 Muhammed Miraz P
 
